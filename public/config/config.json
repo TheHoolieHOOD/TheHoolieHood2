@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "Replace with our contract address",
+  "SCAN_LINK": "https://etherscan.io/",
+  "NETWORK": {
+    "NAME": "Ether",
+    "SYMBOL": "ETH",
+    "ID": 137
+  },
+  "NFT_NAME": "The Hoolie HOOD",
+  "SYMBOL": "Hoolie",
+  "MAX_SUPPLY": 7777,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": ".077",
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/TheHoolieHOOD",
+  "SHOW_BACKGROUND": true
+}
