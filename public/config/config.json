@@ -4,12 +4,12 @@
   "NETWORK": {
     "NAME": "Rinkeby",
     "SYMBOL": "ETH",
-    "ID": 4
+    "ID": 1
   },
   "NFT_NAME": "HOOD",
   "SYMBOL": "HOOD",
   "MAX_SUPPLY": 3000,
-  "WEI_COST": 4000000000000000000,
+  "WEI_COST": 000000000000000000,
   "DISPLAY_COST": "0",
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Testnet Opeansea",
