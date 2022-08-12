@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "Replace with our contract address",
+  "CONTRACT_ADDRESS": "0xB29065B265345eB77A67a3434F56aef312Ef809d",
   "SCAN_LINK": "https://etherscan.io/",
   "NETWORK": {
-    "NAME": "Ether",
+    "NAME": "Rinkeby",
     "SYMBOL": "ETH",
-    "ID": 137
+    "ID": 4
   },
-  "NFT_NAME": "The Hoolie HOOD",
-  "SYMBOL": "Hoolie",
-  "MAX_SUPPLY": 7777,
+  "NFT_NAME": "HOOD",
+  "SYMBOL": "HOOD",
+  "MAX_SUPPLY": 3000,
   "WEI_COST": 4000000000000000000,
-  "DISPLAY_COST": ".077",
+  "DISPLAY_COST": "0",
   "GAS_LIMIT": 285000,
-  "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/TheHoolieHOOD",
+  "MARKETPLACE": "Testnet Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/hood-v3",
   "SHOW_BACKGROUND": true
 }
