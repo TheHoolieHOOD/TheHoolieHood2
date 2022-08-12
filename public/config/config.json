@@ -9,7 +9,6 @@
   "NFT_NAME": "HOOD",
   "SYMBOL": "HOOD",
   "MAX_SUPPLY": 3000,
-  "WEI_COST": 400000000000000,
   "DISPLAY_COST": "0",
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Testnet Opeansea",
